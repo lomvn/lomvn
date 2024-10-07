@@ -4,8 +4,8 @@
 - Python
 - AutoML
 - Computer Vision
-- Нейронные сети и NLP
-- Временные ряды
+- Neural networks and NLP
+- Time series
 - Spark
 - Power BI
 - Docker
