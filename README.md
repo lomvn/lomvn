@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Mikhail
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Machine Learning Engineer
-- 💞️ I’m looking to collaborate on ...
+-Hi, my name is Mikhail!
+-I'm majoring in Machine Learning
+- Languages and Tools:
+- Python
+- AutoML
+- Computer Vision
+- Нейронные сети и NLP
+- Временные ряды
+- Spark
+- Power BI
+- Docker
+- FastAPI
+- Grafana
+- Airflow
 - 📫 How to reach me email lomvn69@mail.ru
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 lomvn/lomvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
