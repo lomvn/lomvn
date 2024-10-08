@@ -4,9 +4,9 @@
 - Python
 - AutoML
 - Computer Vision
-- Neural networks and NLP
-- Time series
-- Spark
+- NLP RNN
+- MLflow
+- DBSCAN
 - Power BI
 - Docker
 - FastAPI
