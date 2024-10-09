@@ -1,5 +1,7 @@
--Hi, my name is Mikhail!
--I'm majoring in Machine Learning
+Меня зовут Михаил и я начинающий специалист в направлении Machine Learning Engineer
+В 2023г. я начал обучение в этом направлении на платформе SKILLBOX, окончил там несколько курсов 
+и продолжаю заниматься своим развитием  (Data Analyst, Data Engineer)
+Мной получены и освоены базовые навыки по следующим направлниям и инструментам
 - Languages and Tools:
 - Python
 - AutoML
