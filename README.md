@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lomvn&show_icons=true&locale=en" alt="lomvn" /></p>
 
-- email: lomvn69@mail.ru
+- email: losev_ml_nn@mail.ru
 - Telegram: t.me/Mikhail_L_nn
 
 <h3 align="left">Connect with me:</h3>
